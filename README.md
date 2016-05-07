@@ -1,2 +1,2 @@
 # ummb.net
-Landing page for archived [kevana/ummbNet](github.com/kevana/ummbNet) project
+Landing page for archived [kevana/ummbNet](https://github.com/kevana/ummbNet) project
